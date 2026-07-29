@@ -45,7 +45,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-<img width="1677" height="938" alt="ChatGPT Image Jul 29, 2026, 08_46_05 PM" src="https://github.com/user-attachments/assets/f7bef4a3-2ddd-4da2-bd26-0672f3629648" />
+<img width="1730" height="909" alt="ChatGPT Image Jul 29, 2026, 08_58_25 PM" src="https://github.com/user-attachments/assets/1fc98128-0729-403c-988d-7ee2660f62f1" />
 
 
 
