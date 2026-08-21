@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: SUBASH M
+* **Register Number**: 212224220109
+* **Date of Submission**: 21-08-2026
 
 ---
 
@@ -98,11 +98,15 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1.The EC2 Dashboard was accessed through the AWS Management Console to explore the Amazon EBS volume types.
+
+2.A new EBS volume was created by selecting the volume type, size, and the same Availability Zone as the EC2 instance.
+
+3.The created EBS volume was attached to the running EC2 instance as an additional block device.
+
+4.The attached volume was formatted using the ext4 file system and mounted to a directory in the EC2 instance.
+
+5.Sample data was stored in the mounted volume, and after rebooting the instance, data persistence was verified successfully.
 
 ---
 
@@ -110,22 +114,28 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1913" height="899" alt="Screenshot 2026-08-21 113639" src="https://github.com/user-attachments/assets/cd6a5dc8-9ad6-40f8-afc4-8fb215d66f4e" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1918" height="890" alt="Screenshot 2026-08-21 131008" src="https://github.com/user-attachments/assets/85565f12-8966-4ab5-b562-5916ece2dad6" />
+
+<img width="1918" height="890" alt="Screenshot 2026-08-21 131008" src="https://github.com/user-attachments/assets/521aa394-8455-4fc2-af74-9ced1b1c5bf9" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
+<img width="1915" height="903" alt="Screenshot 2026-08-21 131743" src="https://github.com/user-attachments/assets/20a6fa01-a32d-4312-a9aa-88f22715c053" />
 
-(Insert Screenshot Here)
+<img width="1919" height="895" alt="Screenshot 2026-08-21 131318" src="https://github.com/user-attachments/assets/e7b8120f-e8c4-4372-8192-587de2da7047" />
+
 
 ---
 
 ## Result 
 
-This experiment provided hands-on experience with Amazon EC2 by demonstrating how to launch, connect, manage, and monitor a virtual server in AWS. It helped in understanding the concept of Infrastructure as a Service (IaaS) and how compute resources can be provisioned and controlled on demand in the cloud.
+This experiment provided hands-on experience with Amazon EC2 by demonstrating how to launch, connect, manage, and monitor a virtual server in AWS. It helped in understanding the concept of Infrastructure as a Service (IaaS) and how compute resources can be provisioned and controlled on demand in the cloud
