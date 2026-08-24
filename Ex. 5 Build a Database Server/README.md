@@ -1,10 +1,9 @@
-# Lab 5 – Build a Database Server (AWS)
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: SUBASH M
+* **Register Number**:212224220109
+* **Date of Submission**: 19/08/2026
 
 ---
 
@@ -80,38 +79,31 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ---
 
-## Workflow (Student Explanation)
-
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
----
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="952" height="842" alt="Screenshot 2026-08-19 173750" src="https://github.com/user-attachments/assets/dcae638d-bf54-40d0-9199-cdf2818c60bd" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+
+<img width="951" height="845" alt="Screenshot 2026-08-19 174224" src="https://github.com/user-attachments/assets/8edef1d0-79ed-4867-a6c7-a95b767a2033" />
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="940" height="766" alt="Screenshot 2026-08-19 183053" src="https://github.com/user-attachments/assets/3b0cee83-226b-4af5-9b20-2cfced4acca0" />
+
 
 ---
 
 ## Result
 
-This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were underst
+This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were understood
